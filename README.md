@@ -6,7 +6,7 @@ It helps farmers optimize water usage, recycle farm waste for filtration, and ga
 ## 🎥 Working Demo & Links
 
 - **Working Video** [Click Here](https://drive.google.com/file/d/12QjmF5GnqeGKb8QuUzFr0oIjLb3K5xrg/view?usp=sharing)  
-- **Backend Repository:** [Backend Code](https://github.com/karan3613/WaterManagementBackend)  
+- **Backend Repository:** [Backend Code](https://github.com/karan3613/HydroHarvest-Backend)  
 - **Hackathon LinkedIn Post:** [LinkedIn Post](https://www.linkedin.com/posts/karan-chouhan-57a337283_hackathon-agritech-iot-activity-7353893473642569729-bLAL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETtOW4BGUyz-H1DfZENmLTxZMycY_DLoNE)
 
 ## 🎯 Features
